@@ -41,6 +41,3 @@ After changing `index.html`, commit and push the change to `main`. GitHub Pages 
 
 The initial portfolio was built as a static HTML page with inline CSS and JavaScript. The content came from the supplied CV. The page was checked with Python's HTML parser and the inline JavaScript passed `node --check`. The source was pushed to the Sites source repository at commit `2d0162fea21e4e77474a26d1dbe66a7c9fac5939`, packaged as static assets, and deployed. Sites reported deployment success. The Sites portfolio was later changed to public access at the user's request.
 
-## Original live portfolio
-
-https://matshotshi_rt.neatrhino1.chatgpt.site
